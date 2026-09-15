@@ -18,3 +18,33 @@ gmail.com
 Mobiltechnológiák
 
 speedtest.net
+
+
+1SIM 
+eSIM
+
+1G analóg (csak hang)
+2G Digitális hang + SMS (GSM hálózat)
+3G Mobilinternet (lassú)
+4G (LTE) nagy sebességű adatátvitel, vidóstream
+5G Ultra alacsony késleltetés
+
+IoT  Internet of Thing
+
+speedtest.net
+
+Android (Google)
+  nyílt forráskódú
+  széles hardverválaszték
+  sok testreszabhatóság
+  külső forrás lehet telepíteni (APK/APKS)
+
+iOS
+  zárt forráskó
+  Apple hardver
+
+
+
+
+ 
+
