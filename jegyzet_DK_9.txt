@@ -48,11 +48,49 @@ iOS
 
 Telefonos alkalmazások
   natív
-  webapp
+  webapp (weboldalak, egy böngészőben)
 
 szünet
 
+Biztonság
+  engedélykötelesek a szenzorok és adatok
+  Dark pattern (sötét mintázat)
+     alkalmazás indokolatlanul kér engedélyt
+  Felhőszolgáltatások
+     készülék elvesztése, meghibásodása esetén
+     megelőzés felhőbe mentünk
+     Google fiók
+     iCloud
 
+Mire kell figyelni
+  személyes adatokat tárol
+  figyelmünkért nagy harc
+
+  Adathalászat
+  Nyilvános wifi (bankolás: nem kéne)
+
+Védelem
+   képerzár
+   bimetrikus azonosítás
+
+FOMO
+  Fear of Missing Out - A kimaradástól való félelem
+
+Digitális higiénia eszközei
+  ne zavarj mód
+  éjszakai szürkeárnyalatos mód
+  alkalmazás időkorlátok
+
+Legközelebb:
+  Mobil alkalmazás készítése
+
+
+
+
+
+
+
+     
 
 
  
