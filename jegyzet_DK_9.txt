@@ -40,8 +40,17 @@ Android (Google)
   külső forrás lehet telepíteni (APK/APKS)
 
 iOS
-  zárt forráskó
+  zárt forráskód
   Apple hardver
+  Hosszú távú szoftvertámogatás
+  Egyésgesség
+  App Store - szigorúan ellenőrzött
+
+Telefonos alkalmazások
+  natív
+  webapp
+
+szünet
 
 
 
