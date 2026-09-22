@@ -93,10 +93,57 @@ gmail.com
 https://appinventor.mit.edu/
 Jelenleg nem elérhető ktch.hu-s címmel.
 
-Flutter (Android, iOS)
-Android Studio
-Xcode + SwiftUI  
-React Native + Expo (Android, iOS)
+Flutter (Android, iOS) - JavaScript
+Android Studio  - Java, Kotlin
+Xcode + SwiftUI   - Swift
+React Native + Expo (Android, iOS) - JavaScript
+
+dqzzqbca
+
+__Számítógépes eszközök__
+
+IKT - Információs és Kommunikációs Technológia
+
+
+Hagyományos információs eszközök
+     könyv, újság, levél
+
+Digitális IKT
+     okostelefon, laptop, számítógép, okostévé, tablet
+
+Intelligens eszközök
+    okosóra, okos-porszívó, 
+    okosszenzorok, robotok
+
+Digitális lábnyom
+  Aktív
+  Passzív
+
+Aktív 
+  Közösségi média, űrlap, fénykép, hozzászólás
+  Online fórum
+Passzív
+  IP cím, Hely (GPS, Wi-Fi), böngésző típusa, 
+  böngészési szokások
+
+Netikett
+  Viselkedési szabályok az Interneten
+
+  nem írunk NAGY betűvel
+  többsoros szöveg: max 70 sor
+  fogalmazzunk tömören
+  kerüljük a káromkodást
+  kerüljük a heves vitákat (gondoljuk át mit írunk)
+  kerüljük mások negatív jellemzését
+  tiszteljük mások vallását
+  fórum adott témával: maradjunk a témánál
+  használjunk szóközöket is
+  használjunk írusjeleket
+  e-mail idézet
+     annyit idézzünk amennyi szükséges
+  mások hibáival legyünk elnézőek, de figyelmeztetni lehet
+
+
 
 
 
