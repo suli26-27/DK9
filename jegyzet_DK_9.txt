@@ -88,9 +88,15 @@ Legközelebb:
 
 2029-06-22
 
+gmail.com
+
 https://appinventor.mit.edu/
 Jelenleg nem elérhető ktch.hu-s címmel.
 
+Flutter (Android, iOS)
+Android Studio
+Xcode + SwiftUI  
+React Native + Expo (Android, iOS)
 
 
 
