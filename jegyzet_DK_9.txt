@@ -184,6 +184,107 @@ használati jog
 
 Mi a fő különbség a hardver és szoftver között?
 
+Licencek csoportosítása
+   zárt forráskódú (fizetős, proprietary)
+      MS Office, Adabe Photoshop
+      Csak használhatjuk,
+      Nem alakíthatjuk át.
+  ingyenes
+    freeware
+    VLC Media Player, Google Chrome, 
+    A kód zárt, de ingyen használható
+  kipróbálható
+    Shareware/Trial
+    korlátozott idő és/vagy funkciók
+    WinRAR, Spotify (ingyenes verzió reklámokkal)
+    Total Commander (időkorlátos, de nem változik
+    semmi 30 nap
+  nyílt forráskódú
+    Open Source
+    Linux, LibreOffice, 
+    Ingyenes, a kódja szabadon módosítható,
+    továbbadható
+  Creative Commons (CC)
+    művészeti és tartalom licencek
+
+EULA - végfelhasználói szerződés
+  Egy licenc szerződés
+  Az alkalmazás legális használatára jogosít
+
+Kereskedelemben forgalmazott szoftverek
+  általában van terméktámogatás
+
+EULA elfogadása
+  A telepítéssel egyben az EULA elfogadását is
+  jelenti.
+
+__Asztal, ikonok, beállítások__
+
+asztal - Desktop
+tálca - Taskbar
+Start menü
+Értesítési terület
+
+Asztal feladata:
+  A telepített alkalmazások gyorsan elérhetők ikonok által.
+
+Ikonok típusai:
+  program, mappa, fájl, parancsikon (kisnyíl)
+
+notepad.exe
+C:\Windows\notepad.exe
+
+Explorer
+Nézet > Megjelenítés > Fájlnévkiterjesztések
+
+
+C:\Windows\notepad.exe
+[ Tovább ]
+
+Név:
+A notepad.exe
+
+Parancssor:
+Start  > beírják   cmd
+
+Windows verziójának lekérdezése, 
+parancssorból:
+  winver
+  ver
+
+_Gyakorló feladat_
+
+Hozzon létre parancsikont a winver.exe 
+indításhoz. Név: Windows verzió
+
+C:\Windows\System32\winver.exe
+
+cmd
+
+systeminfo
+
+Windows névjegy
+
+Start > fogaskerék ikon
+Beállítások (Gépház) > Rendszer > Névjegy
+Billentyűkombináció a gépház
+indításához: Windows + I
+
+Fájlkezelőben megnéztük, hol van a notepad.exe
+Hogyan kell fájlkiterjesztést megjelenítani.
+
+
+Házi feladat
+WordPad legyen a neve is ez
+C:\Windows\write.exe
+
+
+
+
+
+
+
+
 
 
 
