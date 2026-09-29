@@ -147,6 +147,51 @@ Netikett
 
 2026-09-29
 
+__Szoftver__
+
+A számítógép azon része, ami kézzel nem fogható meg.
+Programok, adatok. A hardvert működtető programok.
+
+Csoportosítás
+   rendszer (iOS, Android, Linux, Windows, macOS)
+   alkalmazói szoftverek (ChatGPT, Gemini, Firefox, Google Chrome, 
+        jétékok)
+   Segéd programok(Explorer, WinRAR, CCleaner)
+
+A rendszer szoftver
+Hardver kezelése, kapcsolat biztosítása.
+felhasználó <---->  rendszer szoftver <----> hardver
+
+
+
+_Gyakorlat_
+
+VLC Media Player  - alkalmazás
+Windows 11 - rendszer
+MS Excel - alkalmazás
+Avast - segédprogram
+Google Chrome - Alkalmazás
+Vivaldi - alkalmazói szoftver
+Brave - alkalmazói 
+
+
+__Szoftverlicencek__
+
+tulajdonjog
+használati jog
+
+
+
+Mi a fő különbség a hardver és szoftver között?
+
+
+
+
+
+
+
+
+
 
 
 
