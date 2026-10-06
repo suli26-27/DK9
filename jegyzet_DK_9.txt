@@ -278,11 +278,44 @@ Házi feladat
 WordPad legyen a neve is ez
 C:\Windows\write.exe
 
+=====================
+
+2026-10-06
+
+Dolgozat: 2026-10-19
 
 
 
 
+ICDL
 
+
+
+Giga byte
+2 számrendszer > Bináris
+  bi
+Giga > Gibi
+
+
+__Ablakok__
+
+Explorer (fájlkezelő)
+Böngésző
+Jegyzettömb
+Számológép
+
+Képmetsző
+
+Váltás ablakok között Alt+ Tab
+
+Beállítások:
+ Windows + I
+
+Rendszer > Tárterület
+Rendszer > Névjegy
+
+
+Téma: Személyreszabás > Színek
 
 
 
