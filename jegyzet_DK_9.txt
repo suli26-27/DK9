@@ -365,8 +365,33 @@ csomag.zip
 Szünet
 
 
+Google Classroomban "Megnyitás új lapon" (jobb felső sarokban)
+Akkor bal-felső sarokban megjelent Letöltés
+
+Downloads/
+
+.rtf   > Word
+.rtf   > WordPad
 
 
+hegy.rtf írják az első sorba nevüket
+
+
+
+Fax
+Microsoft Print to PDF
+Microsoft XPS Document Writer
+OneNote
+OneNote for Windows 10
+Send To OneNote 2016
+Bullzip PDF Printer
+
+Önálló feladat Google Classroomban
+
+Téma választása
+.txt fájl készítése
+.rtf fájl készítése
+.pdf fájl nyomtatással
 
 
 
