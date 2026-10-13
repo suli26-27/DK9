@@ -318,6 +318,56 @@ Rendszer > Névjegy
 Téma: Személyreszabás > Színek
 
 
+========================
+
+2026-10-13
+
+
+_Szövegfájlok_
+
+plaintext
+formázott szövegek
+
+_Plain text_
+
+tiszta szöveg
+notepad.exe
+Kiterjesztés: .txt
+
+Karakterkódolás: UTF-8
+
+
+_Formázott szöveg_
+
+stílusmeghatározás
+
+Word   - .docx, .doc
+   word.exe
+Rich Text Format - .rtf
+   write.exe  WordPad
+   writepad.exe
+
+Parancsikon az aktuális könyvtárba
+C:\Windows\write
+
+Linux - LibreOffice
+  writer
+
+libreoffice.org
+  Windows
+  Linux
+  macOS
+
+  Writer kiterjeszéts.  .odt, .docx, .doc
+
+Töltse le a Google Classroomból a
+csomag.zip
+Szünet
+
+
+
+
+
 
 
 
