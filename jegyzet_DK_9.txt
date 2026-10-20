@@ -436,11 +436,35 @@ körte
           |-ruldoc/
 Szünet
 
+__Rendszerezés__
+
+jelentes_001.txt
+jelentes_002.txt
+jelentes_010.txt
+
+termes_001.txt
+termes_002.txt
+
+terv_001.txt
+terv_002.txt
 
 
 
 
 
+
+radi/
+  |-jelentesek/
+  |-kepek/
+  |-termes/
+  |-tervek/
+
+Kép készítés
+
+Start > Képmetsző
+Új
+Kijölték képernyő területét
+Fájl > Mentés másként
 
 
 
