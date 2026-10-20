@@ -466,6 +466,26 @@ Start > Képmetsző
 Kijölték képernyő területét
 Fájl > Mentés másként
 
+Képkivágás.PNG
+kepkivagas.png
+
+radi_kesz.zip
+
+
+|        |          |        |        |
+
+__Tömörítés__
+
+Fájl kiterjesztés?
+
+.zip
+.rar
+.arj
+
+.jpg
+Szünet után dolgozat
+
+
 
 
 
