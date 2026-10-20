@@ -402,6 +402,39 @@ Vége
 
 Fájl- és könyvtárkezelés
 
+Az adatmennyiség:
+Byte
+kB kiló-
+MB mega-
+GB giga-
+TB tera
+
+Bináris prefixumok
+kibi
+mebi
+gibi
+tebi
+
+.txt, .docx, .png, .jpg, .iso
+Byte - .txt
+kB  - .png, .docx, .jpg, .txt
+MB , .jpg
+GB - .iso
+
+Asztalon 
+   Vezeteknev_Keresztenv/
+      |-gyumolcs.txt
+
+alma
+körte
+
+   Vezeteknev_Keresztenv/
+       |-fruit.txt
+       |-doc/
+          |-rules.txt
+          |-jarmu.txt
+          |-ruldoc/
+Szünet
 
 
 
