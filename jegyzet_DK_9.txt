@@ -508,6 +508,7 @@ C:\Program Files\Microsoft Office\root\Office16\EXCEL.EXE
 Legközelebb 
   010-ben a bemutatók feldolgozása
     A fájl jogosultságokat átnéztük
+    A tűzfalakat kell átnézni.
   Hogyan lehet letölteni egy fájl a Classroom-ból
   együtt 2. Feladat
   Biztonság és kényelem
